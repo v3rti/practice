@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 5px;
+  padding: 0;
+}
+
+.centered {
+  width: fit-content;
+
+  margin: 25px auto;
+}
+
+.nostock {
+  color: red;
+}
